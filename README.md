@@ -105,8 +105,4 @@ Exploratory and statistical analysis of the German car market using AutoScout24 
 - Adidas 2020 data has limited geographic coverage
 - Cars dataset reflects listings on one platform (AutoScout24) and may not represent the entire market
 
-## Author
-[Your Name]  
-GitHub: [link]  
-LinkedIn: [link]  
-Portfolio: [link]
+
